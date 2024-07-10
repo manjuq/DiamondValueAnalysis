@@ -1,16 +1,436 @@
-Product_id,Shape,Weight,Clarity,Colour,Cut,Polish,Symmetry,Fluorescence,Messurements,Price,Product_url
- 2048035, MARQUISE, 0.61, I1, FANCY, GD, GD, GD, F, M,"$1,034.74",https://capitalwholesalediamonds.com/product/0-61-ct-marquise/
- 2137205, MARQUISE, 0.5, VS2, J, EX, VG, VG, VG, ST,"$1,298.90",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-84/
- 1026824, Marquise, 0.74, SI1, G,, EX, EX, EX, NONE,"$1,319.36",https://capitalwholesalediamonds.com/product/0-74-ct-marquise/
- 2082729, MARQUISE, 0.5, SI1, H, EX, EX, EX, VG, F,"$1,351.16",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-40/
- 2135860, MARQUISE, 0.5, SI1, J, EX, EX, EX, VG, F,"$1,367.26",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-91/
- 2121512, MARQUISE, 0.5, SI2, E, EX, VG, VG, VG, M,"$1,385.85",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-20/
- 2041497, MARQUISE, 0.51, SI1, H, EX, EX, EX, VG, N,"$1,385.95",https://capitalwholesalediamonds.com/product/0-51-ct-marquise-3/
- 2114742, MARQUISE, 0.7, SI1, K, EX, EX, EX, EX, ST,"$1,386.29",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-18/
- 2122652, MARQUISE, 0.5, SI1, J, EX, VG, VG, VG, N,"$1,395.10",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-19/
- 2049953, MARQUISE, 0.5, SI1, H, EX, EX, EX, EX, N,"$1,399.49",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-22/
- 2080588, MARQUISE, 0.5, SI1, H, EX, VG, VG, VG, F,"$1,439.09",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-53/
- 2034438, MARQUISE, 0.7, SI2, K, GD, EX, EX, VG, N,"$1,470.46",https://capitalwholesalediamonds.com/product/0-7-ct-marquise/
- 2038050, MARQUISE, 0.51, SI1, G, EX, EX, EX, VG, N,"$1,488.70",https://capitalwholesalediamonds.com/product/0-51-ct-marquise/
- 2100030, MARQUISE, 0.8, SI1, M, EX, EX, EX, VG, F,"$1,504.17",https://capitalwholesalediamonds.com/product/0-8-ct-marquise-5/
- 2133095, MARQUISE, 0.5, VS2, I, VG, EX, EX, VG, ST,"$1,511.81",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-79/
+Product_id,Shape,Carat,Clarity,Colour,Cut,Polish,Symmetry,Fluorescence,Price,Product_url
+2048035, MARQUISE,0.61, I1, FANCY, GD, GD, F, M,"$1,034.74",https://capitalwholesalediamonds.com/product/0-61-ct-marquise/
+2137205, MARQUISE,0.5, VS2, J, EX, VG, VG, ST,"$1,298.90",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-84/
+1026824, Marquise,0.74, SI1, G,, EX, EX, NONE,"$1,319.36",https://capitalwholesalediamonds.com/product/0-74-ct-marquise/
+2082729, MARQUISE,0.5, SI1, H, EX, EX, VG, F,"$1,351.16",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-40/
+2135860, MARQUISE,0.5, SI1, J, EX, EX, VG, F,"$1,367.26",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-91/
+2121512, MARQUISE,0.5, SI2, E, EX, VG, VG, M,"$1,385.85",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-20/
+2041497, MARQUISE,0.51, SI1, H, EX, EX, VG, N,"$1,385.95",https://capitalwholesalediamonds.com/product/0-51-ct-marquise-3/
+2114742, MARQUISE,0.7, SI1, K, EX, EX, EX, ST,"$1,386.29",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-18/
+2122652, MARQUISE,0.5, SI1, J, EX, VG, VG, N,"$1,395.10",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-19/
+2049953, MARQUISE,0.5, SI1, H, EX, EX, EX, N,"$1,399.49",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-22/
+2080588, MARQUISE,0.5, SI1, H, EX, VG, VG, F,"$1,439.09",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-53/
+2034438, MARQUISE,0.7, SI2, K, GD, EX, VG, N,"$1,470.46",https://capitalwholesalediamonds.com/product/0-7-ct-marquise/
+2038050, MARQUISE,0.51, SI1, G, EX, EX, VG, N,"$1,488.70",https://capitalwholesalediamonds.com/product/0-51-ct-marquise/
+2100030, MARQUISE,0.8, SI1, M, EX, EX, VG, F,"$1,504.17",https://capitalwholesalediamonds.com/product/0-8-ct-marquise-5/
+2133095, MARQUISE,0.5, VS2, I, VG, EX, VG, ST,"$1,511.81",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-79/
+2106658, MARQUISE,0.59, VS1, J, VG, EX, VG, N,"$1,544.53",https://capitalwholesalediamonds.com/product/0-59-ct-marquise-9/
+2114751, MARQUISE,0.5, SI2, F, EX, EX, VG, F,"$1,545.51",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-69/
+2128959, MARQUISE,0.5, SI2, F, EX, EX, EX, F,"$1,546.35",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-71/
+2114749, MARQUISE,0.63, SI1, I, EX, EX, VG, N,"$1,547.36",https://capitalwholesalediamonds.com/product/0-63-ct-marquise/
+2138988, MARQUISE,0.5, SI2, D, EX, VG, VG, F,"$1,558.33",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-86/
+2124469, MARQUISE,0.5, SI2, D, EX, EX, EX, F,"$1,565.90",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-21/
+1025046, Marquise,0.7, VS2, E,, EX, EX, NONE,"$1,572.68",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-5/
+2112910, MARQUISE,0.5, SI2, E, EX, VG, VG, N,"$1,581.92",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-68/
+2125658, MARQUISE,0.5, SI2, E, EX, EX, VG, N,"$1,596.31",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-49/
+2105157, MARQUISE,0.5, SI1, G, EX, EX, VG, N,"$1,600.50",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-15/
+2078579, MARQUISE,0.51, SI1, D, EX, EX, VG, F,"$1,603.81",https://capitalwholesalediamonds.com/product/0-51-ct-marquise-4/
+2127873, MARQUISE,0.5, VVS2, J, VG, EX, EX, N,"$1,603.93",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-30/
+1026013, Marquise,0.75, SI1, E,, EX, EX, NONE,"$1,605.33",https://capitalwholesalediamonds.com/product/0-75-ct-marquise-3/
+2129975, MARQUISE,0.5, SI2, D, EX, EX, VG, N,"$1,614.88",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-92/
+2118151, MARQUISE,0.5, SI1, E, EX, EX, VG, M,"$1,635.08",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-31/
+2138350, MARQUISE,0.5, SI1, G, EX, EX, VG, N,"$1,652.97",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-87/
+5005888, Marquise,0.79, VS2, F,, EX, EX, NONE,"$1,653.33",https://capitalwholesalediamonds.com/product/0-79-ct-marquise-2/
+2106662, MARQUISE,0.5, SI1, F, VG, EX, EX, N,"$1,656.20",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-26/
+2119389, MARQUISE,0.5, VS2, F, VG, EX, VG, M,"$1,658.09",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-14/
+1947227, MARQUISE,0.71, SI2, G, EX, VG, VG, N,"$1,665.89",https://capitalwholesalediamonds.com/product/0-71-ct-marquise-3/
+2129973, MARQUISE,0.5, SI1, H, VG, VG, VG, N,"$1,667.19",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-76/
+2085430, MARQUISE,0.5, VS1, F, EX, EX, VG, ST,"$1,671.60",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-4/
+1026868, Marquise,0.82, VS1, F,, EX, VG, NONE,"$1,673.14",https://capitalwholesalediamonds.com/product/0-82-ct-marquise-2/
+2064855, MARQUISE,0.5, VS2, I, EX, EX, VG, N,"$1,675.67",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-33/
+2101011, MARQUISE,0.5, VS1, F, EX, EX, VG, ST,"$1,684.17",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-58/
+2129972, MARQUISE,0.5, SI1, E, GD, EX, VG, N,"$1,684.93",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-93/
+1024811, Marquise,0.7, VVS2, E,, EX, EX, NONE,"$1,686.96",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-3/
+2095427, MARQUISE,0.5, SI1, H, EX, EX, VG, N,"$1,692.65",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-57/
+2100032, MARQUISE,0.8, SI2, J, VG, EX, VG, F,"$1,694.13",https://capitalwholesalediamonds.com/product/0-8-ct-marquise-4/
+2125657, MARQUISE,0.5, SI1, D, GD, EX, GD, N,"$1,694.36",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-70/
+2075729, MARQUISE,0.5, VS2, H, EX, EX, VG, N,"$1,696.84",https://capitalwholesalediamonds.com/product/0-5-ct-marquise/
+2110306, MARQUISE,0.5, SI1, H, EX, EX, VG, N,"$1,701.95",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-46/
+1026733, Marquise,0.71, VS1, D,, VG, EX, NONE,"$1,703.28",https://capitalwholesalediamonds.com/product/0-71-ct-marquise/
+1024939, Marquise,0.71, VS1, D,, EX, EX, NONE,"$1,703.28",https://capitalwholesalediamonds.com/product/0-71-ct-marquise-2/
+2086429, MARQUISE,0.5, SI1, D, GD, EX, GD, N,"$1,706.90",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-55/
+1026424, Marquise,0.91, VS2, H,, EX, EX, NONE,"$1,707.90",https://capitalwholesalediamonds.com/product/0-91-ct-marquise/
+2138348, MARQUISE,0.5, SI1, D, EX, EX, VG, F,"$1,725.61",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-89/
+2121511, MARQUISE,0.5, SI1, D, EX, EX, VG, F,"$1,728.13",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-48/
+1018912, Marquise,0.73, VS1, F,, EX, EX, NONE,"$1,731.96",https://capitalwholesalediamonds.com/product/0-73-ct-marquise-2/
+2100042, MARQUISE,0.5, SI1, G, EX, EX, VG, N,"$1,736.54",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-60/
+2114748, MARQUISE,0.5, SI1, F, EX, EX, VG, F,"$1,776.26",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-67/
+2101008, MARQUISE,0.52, VVS1, H, EX, EX, VG, M,"$1,776.79",https://capitalwholesalediamonds.com/product/0-52-ct-marquise-5/
+2102038, MARQUISE,0.5, SI1, D, EX, EX, GD, N,"$1,780.60",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-62/
+1024337, Marquise,0.76, VS1, F,, EX, EX, NONE,"$1,780.77",https://capitalwholesalediamonds.com/product/0-76-ct-marquise/
+2120298, MARQUISE,0.5, VS1, H, EX, VG, VG, M,"$1,782.19",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-65/
+1018362, Marquise,0.73, VS1, E,, EX, EX, NONE,"$1,783.61",https://capitalwholesalediamonds.com/product/0-73-ct-marquise/
+2105154, MARQUISE,0.7, SI2, J, VG, EX, GD, N,"$1,791.42",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-77/
+2098941, MARQUISE,0.5, SI1, F, EX, EX, VG, N,"$1,797.35",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-9/
+2075730, MARQUISE,0.5, SI1, E, EX, EX, VG, N,"$1,806.61",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-23/
+2110305, MARQUISE,0.5, SI1, F, EX, EX, VG, N,"$1,806.68",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-27/
+2069058, MARQUISE,0.51, VS1, D, VG, EX, GD, ST,"$1,813.61",https://capitalwholesalediamonds.com/product/0-51-ct-marquise-2/
+1026731, Marquise,0.81, VS1, E,, EX, EX, NONE,"$1,813.65",https://capitalwholesalediamonds.com/product/0-81-ct-marquise/
+1026580, Marquise,0.81, VS1, E,, EX, EX, NONE,"$1,813.65",https://capitalwholesalediamonds.com/product/0-81-ct-marquise-2/
+2046095, MARQUISE,0.5, VS1, E, EX, EX, VG, F,"$1,827.90",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-32/
+1026734, Marquise,0.82, VVS2, F,, EX, EX, NONE,"$1,829.33",https://capitalwholesalediamonds.com/product/0-82-ct-marquise/
+2103237, MARQUISE,0.59, VS2, H, EX, VG, GD, VS,"$1,834.11",https://capitalwholesalediamonds.com/product/0-59-ct-marquise-8/
+2083885, MARQUISE,0.51, IF, I, EX, EX, VG, N,"$1,847.48",https://capitalwholesalediamonds.com/product/0-51-ct-marquise-7/
+2088248, MARQUISE,0.5, SI1, D, EX, EX, VG, N,"$1,848.13",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-5/
+2137206, MARQUISE,0.54, SI1, D, EX, VG, VG, N,"$1,859.10",https://capitalwholesalediamonds.com/product/0-54-ct-marquise/
+2127878, MARQUISE,0.53, VS2, I, EX, EX, VG, F,"$1,866.77",https://capitalwholesalediamonds.com/product/0-53-ct-marquise-2/
+1025863, Marquise,0.89, VS1, D,, EX, EX, NONE,"$1,876.07",https://capitalwholesalediamonds.com/product/0-89-ct-marquise/
+2120297, MARQUISE,0.51, VS1, H, EX, VG, VG, N,"$1,877.46",https://capitalwholesalediamonds.com/product/0-51-ct-marquise-6/
+2066098, MARQUISE,0.51, VVS2, E, EX, EX, VG, ST,"$1,888.85",https://capitalwholesalediamonds.com/product/0-51-ct-marquise-5/
+1026577, Marquise,0.83, VS1, D,, EX, EX, NONE,"$1,899.19",https://capitalwholesalediamonds.com/product/0-83-ct-marquise/
+2120295, MARQUISE,0.5, VS1, E, EX, VG, VG, ST,"$1,900.64",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-64/
+2134490, MARQUISE,0.52, VS1, H, EX, EX, VG, N,"$1,913.62",https://capitalwholesalediamonds.com/product/0-52-ct-marquise-6/
+1017181, Marquise,0.75, VS1, E,, EX, EX, NONE,"$1,915.51",https://capitalwholesalediamonds.com/product/0-75-ct-marquise/
+1017813, Marquise,0.75, VS1, E,, EX, EX, NONE,"$1,915.51",https://capitalwholesalediamonds.com/product/0-75-ct-marquise-2/
+2081793, MARQUISE,0.5, VS1, E, VG, VG, VG, F,"$1,933.36",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-2/
+1017451, Marquise,0.79, VVS2, E,, EX, EX, NONE,"$1,941.37",https://capitalwholesalediamonds.com/product/0-79-ct-marquise/
+2092462, MARQUISE,0.5, VS1, D, VG, EX, VG, ST,"$1,954.64",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-24/
+2103236, MARQUISE,0.5, VS2, G, EX, EX, VG, F,"$1,959.66",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-13/
+2119390, MARQUISE,0.56, VS2, H, EX, EX, VG, N,"$1,978.60",https://capitalwholesalediamonds.com/product/0-56-ct-marquise/
+2133094, MARQUISE,0.5, VS2, G, VG, EX, VG, N,"$1,985.92",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-78/
+2114750, MARQUISE,0.61, SI2, D, EX, EX, VG, N,"$1,998.43",https://capitalwholesalediamonds.com/product/0-61-ct-marquise-3/
+2138985, MARQUISE,0.7, SI2, F, VG, EX, VG, M,"$2,003.04",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-80/
+2103233, MARQUISE,0.55, VS1, H, EX, EX, VG, N,"$2,013.46",https://capitalwholesalediamonds.com/product/0-55-ct-marquise/
+2098045, MARQUISE,0.51, VS2, G, EX, VG, VG, N,"$2,014.09",https://capitalwholesalediamonds.com/product/0-51-ct-marquise-8/
+2126774, MARQUISE,0.5, VS2, E, EX, EX, VG, F,"$2,021.24",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-66/
+2111634, MARQUISE,0.72, SI1, K, EX, EX, VG, F,"$2,028.52",https://capitalwholesalediamonds.com/product/0-72-ct-marquise-7/
+2100033, MARQUISE,0.7, VS2, K, EX, EX, VG, N,"$2,031.28",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-8/
+2098933, MARQUISE,0.7, SI2, I, EX, EX, VG, F,"$2,041.54",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-50/
+2131082, MARQUISE,0.6, SI1, F, EX, EX, VG, N,"$2,043.03",https://capitalwholesalediamonds.com/product/0-6-ct-marquise-6/
+2120290, MARQUISE,0.5, IF, H, EX, EX, VG, N,"$2,045.91",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-17/
+2137203, MARQUISE,0.52, VS2, F, EX, EX, VG, N,"$2,055.79",https://capitalwholesalediamonds.com/product/0-52-ct-marquise-8/
+2122648, MARQUISE,0.51, VS2, E, EX, EX, VG, N,"$2,057.17",https://capitalwholesalediamonds.com/product/0-51-ct-marquise-9/
+2092461, MARQUISE,0.5, VVS2, G, EX, EX, VG, N,"$2,083.85",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-38/
+2015086, MARQUISE,0.9, VS1, S-T, EX, VG, VG, N,"$2,084.39",https://capitalwholesalediamonds.com/product/0-9-ct-marquise/
+2120292, MARQUISE,0.5, VVS2, G, EX, EX, VG, N,"$2,086.39",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-43/
+ 222139-790, MARQUISE,1, SI2, N, GD, EX, VG, N,"$2,098.15",https://capitalwholesalediamonds.com/product/1-ct-marquise-52/
+2137204, MARQUISE,0.5, VS2, F, EX, EX, VG, N,"$2,116.08",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-85/
+2081794, MARQUISE,0.5, VS1, F, EX, EX, GD, N,"$2,116.91",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-3/
+2094656, MARQUISE,0.6, SI1, E, EX, EX, VG, N,"$2,118.03",https://capitalwholesalediamonds.com/product/0-6-ct-marquise-2/
+2101016, MARQUISE,0.59, VS2, I, EX, EX, VG, N,"$2,119.78",https://capitalwholesalediamonds.com/product/0-59-ct-marquise/
+2091536, MARQUISE,0.5, VS1, G, EX, EX, EX, F,"$2,120.98",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-36/
+1019762, Marquise,0.9, SI1, E,, EX, EX, NONE,"$2,135.91",https://capitalwholesalediamonds.com/product/0-9-ct-marquise-4/
+2126775, MARQUISE,0.6, VS2, F, EX, VG, VG, ST,"$2,141.67",https://capitalwholesalediamonds.com/product/0-6-ct-marquise-4/
+2134491, MARQUISE,0.51, VS2, E, EX, EX, VG, N,"$2,153.39",https://capitalwholesalediamonds.com/product/0-51-ct-marquise-12/
+ 111000-6888, MARQUISE,1, SI2, J, EX, VG, VG, N,"$2,154.88",https://capitalwholesalediamonds.com/product/1-ct-marquise/
+ 214287-714, MARQUISE,1, SI2, J, EX, EX, EX, ST,"$2,180.85",https://capitalwholesalediamonds.com/product/1-ct-marquise-3/
+2135858, MARQUISE,0.5, VVS2, G, EX, EX, VG, N,"$2,190.32",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-83/
+2135859, MARQUISE,0.55, VS1, D, EX, EX, EX, ST,"$2,202.04",https://capitalwholesalediamonds.com/product/0-55-ct-marquise-5/
+2096326, MARQUISE,0.5, VVS2, F, EX, EX, VG, F,"$2,214.04",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-42/
+2138984, MARQUISE,0.7, SI2, F, VG, VG, VG, N,"$2,216.71",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-71/
+2125654, MARQUISE,0.76, SI2, I, VG, VG, VG, M,"$2,234.59",https://capitalwholesalediamonds.com/product/0-76-ct-marquise-3/
+2125650, MARQUISE,0.72, VS2, J, VG, EX, VG, M,"$2,249.67",https://capitalwholesalediamonds.com/product/0-72-ct-marquise-4/
+2138698, MARQUISE,0.81, VS2, FANCY, GD, EX, VG, N,"$2,261.20",https://capitalwholesalediamonds.com/product/0-81-ct-marquise-4/
+2101012, MARQUISE,0.5, VS1, F, EX, VG, VG, N,"$2,261.24",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-10/
+2122641, MARQUISE,0.5, IF, E, EX, EX, VG, M,"$2,263.96",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-18/
+2122646, MARQUISE,0.5, VS1, G, EX, VG, VG, N,"$2,264.84",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-29/
+2120296, MARQUISE,0.61, VS1, H, EX, EX, VG, ST,"$2,272.06",https://capitalwholesalediamonds.com/product/0-61-ct-marquise-2/
+2120299, MARQUISE,0.5, VS2, D, EX, VG, VG, N,"$2,274.06",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-45/
+2134486, MARQUISE,0.7, SI1, J, VG, EX, VG, F,"$2,276.95",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-63/
+2086428, MARQUISE,0.59, VS2, D, EX, VG, VG, F,"$2,286.68",https://capitalwholesalediamonds.com/product/0-59-ct-marquise-5/
+1027095, Marquise,0.9, VVS2, E,, EX, EX, NONE,"$2,295.09",https://capitalwholesalediamonds.com/product/0-9-ct-marquise-3/
+2133091, MARQUISE,0.53, VS1, F, EX, EX, VG, N,"$2,299.91",https://capitalwholesalediamonds.com/product/0-53-ct-marquise-3/
+ 220360-401, MARQUISE,1.01, SI2, M, EX, EX, VG, F,"$2,355.37",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-13/
+2137202, MARQUISE,0.55, VS1, F, EX, EX, VG, N,"$2,362.80",https://capitalwholesalediamonds.com/product/0-55-ct-marquise-6/
+2098040, MARQUISE,0.8, SI1, J, EX, EX, VG, M,"$2,386.80",https://capitalwholesalediamonds.com/product/0-8-ct-marquise-10/
+2135857, MARQUISE,0.5, VVS2, F, VG, EX, VG, F,"$2,406.56",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-81/
+2138987, MARQUISE,0.5, VS1, D, EX, EX, EX, F,"$2,422.65",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-88/
+1945941, MARQUISE,0.53, VVS2, FANCY, EX, EX, EX, N,"$2,442.81",https://capitalwholesalediamonds.com/product/0-53-ct-marquise/
+2134488, MARQUISE,0.5, VVS1, D, EX, VG, VG, ST,"$2,448.27",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-77/
+2129970, MARQUISE,0.5, VS1, D, VG, EX, VG, N,"$2,450.52",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-82/
+2119387, MARQUISE,0.7, VS2, J, EX, EX, VG, ST,"$2,476.29",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-37/
+2102033, MARQUISE,0.73, SI2, H, EX, VG, VG, F,"$2,500.58",https://capitalwholesalediamonds.com/product/0-73-ct-marquise-3/
+2120293, MARQUISE,0.59, VVS2, I, EX, EX, EX, N,"$2,507.15",https://capitalwholesalediamonds.com/product/0-59-ct-marquise-2/
+2137200, MARQUISE,0.52, IF, E, EX, EX, VG, F,"$2,529.04",https://capitalwholesalediamonds.com/product/0-52-ct-marquise-7/
+2100037, MARQUISE,0.7, SI2, I, VG, EX, VG, N,"$2,545.50",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-33/
+2137196, MARQUISE,0.75, VS1, J, EX, EX, VG, N,"$2,551.77",https://capitalwholesalediamonds.com/product/0-75-ct-marquise-12/
+2126771, MARQUISE,0.5, VS1, D, EX, EX, VG, N,"$2,564.00",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-72/
+2110302, MARQUISE,0.7, SI2, E, EX, EX, VG, ST,"$2,587.49",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-45/
+2098932, MARQUISE,0.7, SI2, H, EX, EX, VG, N,"$2,589.86",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-10/
+2133087, MARQUISE,0.51, VVS1, E, VG, EX, VG, N,"$2,596.04",https://capitalwholesalediamonds.com/product/0-51-ct-marquise-10/
+2096325, MARQUISE,0.5, VVS1, E, VG, VG, VG, N,"$2,625.58",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-41/
+ 223480-1787, MARQUISE,1.01, SI2, L, GD, EX, VG, N,"$2,642.77",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-40/
+2097032, MARQUISE,0.7, SI2, D, EX, EX, VG, N,"$2,645.63",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-28/
+2134489, MARQUISE,0.5, VS1, D, EX, EX, VG, N,"$2,648.47",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-75/
+2106657, MARQUISE,0.6, VS1, G, EX, EX, VG, M,"$2,656.27",https://capitalwholesalediamonds.com/product/0-6-ct-marquise-5/
+2127875, MARQUISE,0.5, VS1, D, EX, EX, VG, N,"$2,676.33",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-63/
+2124468, MARQUISE,0.7, SI2, D, EX, EX, VG, N,"$2,702.55",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-22/
+2133090, MARQUISE,0.51, VVS2, E, EX, EX, VG, N,"$2,716.98",https://capitalwholesalediamonds.com/product/0-51-ct-marquise-11/
+2119705, MARQUISE,0.79, VS2, FANCY, VG, VG, GD, M,"$2,750.00",https://capitalwholesalediamonds.com/product/0-79-ct-marquise-4/
+2131078, MARQUISE,0.5, VVS2, F, EX, EX, VG, N,"$2,750.51",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-73/
+2133089, MARQUISE,0.5, VVS2, D, VG, EX, VG, N,"$2,753.96",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-80/
+2069789, MARQUISE,0.7, SI2, D, EX, EX, VG, N,"$2,768.48",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-2/
+ 221150-56, MARQUISE,1.01, SI1, L, EX, EX, EX, ST,"$2,773.75",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-31/
+2102032, MARQUISE,0.7, SI1, I, EX, EX, EX, N,"$2,775.31",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-12/
+2131926, MARQUISE,0.72, SI2, I, EX, EX, EX, N,"$2,782.02",https://capitalwholesalediamonds.com/product/0-72-ct-marquise-14/
+2133088, MARQUISE,0.5, VVS2, D, VG, EX, VG, N,"$2,784.38",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-90/
+2112905, MARQUISE,0.8, SI1, J, EX, EX, VG, N,"$2,811.90",https://capitalwholesalediamonds.com/product/0-8-ct-marquise-7/
+2127040, MARQUISE,0.8, VS2, FANCY, GD, VG, GD, F,"$2,817.10",https://capitalwholesalediamonds.com/product/0-8-ct-marquise-6/
+2138347, MARQUISE,0.7, SI1, G, VG, EX, VG, N,"$2,824.43",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-81/
+2138983, MARQUISE,0.7, SI2, E, EX, EX, VG, N,"$2,827.66",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-76/
+ 220054-644, MARQUISE,1, SI2, G, VG, VG, VG, N,"$2,835.82",https://capitalwholesalediamonds.com/product/1-ct-marquise-4/
+ 221148-108, MARQUISE,1, SI1, L, GD, EX, VG, M,"$2,842.13",https://capitalwholesalediamonds.com/product/1-ct-marquise-39/
+2125652, MARQUISE,0.7, SI1, F, VG, EX, GD, N,"$2,856.26",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-20/
+2137197, MARQUISE,0.72, VS1, J, EX, EX, VG, N,"$2,865.15",https://capitalwholesalediamonds.com/product/0-72-ct-marquise-11/
+2075726, MARQUISE,0.7, SI1, G, EX, EX, VG, N,"$2,877.78",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-4/
+2123468, MARQUISE,0.7, SI2, F, VG, EX, EX, N,"$2,890.11",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-23/
+2138980, MARQUISE,0.7, SI1, H, EX, EX, VG, N,"$2,894.84",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-70/
+2062067, MARQUISE,0.7, SI1, E, EX, EX, VG, F,"$2,901.67",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-27/
+2090616, MARQUISE,0.8, SI2, I, EX, EX, VG, N,"$2,918.81",https://capitalwholesalediamonds.com/product/0-8-ct-marquise-2/
+2098930, MARQUISE,0.7, SI2, F, EX, EX, EX, N,"$2,927.60",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-32/
+ 220548-752, MARQUISE,1.2, SI1, M, GD, EX, EX, N,"$2,941.90",https://capitalwholesalediamonds.com/product/1-2-ct-marquise-6/
+2121506, MARQUISE,0.7, SI1, D, VG, EX, VG, M,"$2,963.14",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-57/
+2138982, MARQUISE,0.72, SI2, E, EX, EX, VG, N,"$2,977.54",https://capitalwholesalediamonds.com/product/0-72-ct-marquise-12/
+2087226, MARQUISE,0.75, SI1, I, EX, EX, VG, N,"$2,982.15",https://capitalwholesalediamonds.com/product/0-75-ct-marquise-7/
+2131925, MARQUISE,0.7, SI1, H, EX, VG, VG, N,"$2,982.20",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-78/
+ 214202-800, MARQUISE,1, SI2, I, FG, EX, EX, SL,"$2,993.33",https://capitalwholesalediamonds.com/product/1-ct-marquise-2/
+ 211400-12, MARQUISE,1.01, SI2, J, EX, EX, EX, F,"$3,026.95",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-5/
+2138346, MARQUISE,0.7, SI1, F, VG, EX, VG, N,"$3,038.23",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-79/
+ 222137-374, MARQUISE,1.2, SI2, L, EX, EX, VG, M,"$3,045.61",https://capitalwholesalediamonds.com/product/1-2-ct-marquise-18/
+2091530, MARQUISE,0.7, VS2, D, VG, VG, VG, ST,"$3,057.47",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-48/
+ 111000-7362, MARQUISE,1.01, VVS1, FANCY, EX, VG, EX, F,"$3,077.38",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-3/
+2098929, MARQUISE,0.7, SI1, H, EX, EX, VG, N,"$3,080.12",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-6/
+2111632, MARQUISE,0.7, VS2, I, EX, EX, EX, F,"$3,088.17",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-13/
+2105150, MARQUISE,0.8, SI2, I, EX, EX, EX, N,"$3,094.23",https://capitalwholesalediamonds.com/product/0-8-ct-marquise-12/
+2138981, MARQUISE,0.7, SI2, D, EX, EX, EX, N,"$3,096.08",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-69/
+2124463, MARQUISE,0.7, VS1, I, VG, EX, EX, F,"$3,131.44",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-25/
+2124465, MARQUISE,0.7, VS2, G, EX, EX, VG, ST,"$3,139.18",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-40/
+2120289, MARQUISE,0.7, VS2, D, VG, EX, VG, ST,"$3,206.63",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-53/
+2138986, MARQUISE,0.5, IF, D, EX, EX, EX, N,"$3,223.73",https://capitalwholesalediamonds.com/product/0-5-ct-marquise-74/
+2128952, MARQUISE,0.7, VS2, G, EX, VG, VG, M,"$3,225.63",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-41/
+ 222073-150, MARQUISE,1.01, VVS2, L, EX, EX, EX, F,"$3,292.62",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-38/
+2097031, MARQUISE,0.8, SI2, D, EX, VG, VG, N,"$3,312.71",https://capitalwholesalediamonds.com/product/0-8-ct-marquise-11/
+2138345, MARQUISE,0.7, VS2, G, EX, EX, VG, M,"$3,314.35",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-68/
+2131067, MARQUISE,0.8, SI2, G, EX, EX, VG, N,"$3,361.93",https://capitalwholesalediamonds.com/product/0-8-ct-marquise-16/
+2079746, MARQUISE,0.76, SI1, G, EX, EX, EX, N,"$3,395.28",https://capitalwholesalediamonds.com/product/0-76-ct-marquise-6/
+2110297, MARQUISE,0.7, VS2, G, EX, EX, VG, M,"$3,408.99",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-35/
+ 222139-760, MARQUISE,1, SI2, K, EX, EX, VG, F,"$3,440.39",https://capitalwholesalediamonds.com/product/1-ct-marquise-51/
+2134485, MARQUISE,0.7, SI1, D, EX, EX, VG, N,"$3,463.82",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-66/
+2094650, MARQUISE,0.75, SI1, G, EX, EX, EX, N,"$3,479.43",https://capitalwholesalediamonds.com/product/0-75-ct-marquise-4/
+2080587, MARQUISE,0.72, VS2, G, EX, VG, VG, M,"$3,497.10",https://capitalwholesalediamonds.com/product/0-72-ct-marquise-6/
+2138979, MARQUISE,0.7, VS1, H, EX, VG, VG, F,"$3,544.39",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-62/
+2131924, MARQUISE,0.7, SI1, D, EX, EX, VG, N,"$3,552.20",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-72/
+2110299, MARQUISE,0.7, SI1, E, EX, EX, VG, N,"$3,556.87",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-16/
+ 223479-428, MARQUISE,1, SI2, J, VG, VG, VG, N,"$3,557.13",https://capitalwholesalediamonds.com/product/1-ct-marquise-65/
+2134479, MARQUISE,0.7, VS2, D, VG, EX, VG, F,"$3,574.98",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-73/
+2134482, MARQUISE,0.7, VS2, F, GD, EX, VG, N,"$3,586.49",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-75/
+2134483, MARQUISE,0.75, SI1, D, EX, EX, VG, M,"$3,587.69",https://capitalwholesalediamonds.com/product/0-75-ct-marquise-11/
+2126769, MARQUISE,0.71, VS2, F, EX, VG, VG, M,"$3,654.90",https://capitalwholesalediamonds.com/product/0-71-ct-marquise-7/
+ 221195-216, MARQUISE,1, SI2, G, EX, VG, VG, ST,"$3,714.88",https://capitalwholesalediamonds.com/product/1-ct-marquise-46/
+ 223381-279, MARQUISE,1, I1, H, EX, VG, VG, N,"$3,718.29",https://capitalwholesalediamonds.com/product/1-ct-marquise-55/
+2134484, MARQUISE,0.75, SI1, D, EX, EX, VG, F,"$3,737.68",https://capitalwholesalediamonds.com/product/0-75-ct-marquise-13/
+2102029, MARQUISE,0.71, VS2, G, EX, EX, VG, N,"$3,760.87",https://capitalwholesalediamonds.com/product/0-71-ct-marquise-8/
+2085427, MARQUISE,0.75, SI1, F, EX, EX, VG, N,"$3,763.24",https://capitalwholesalediamonds.com/product/0-75-ct-marquise-9/
+ 221095-72, MARQUISE,1.2, SI2, H, EX, EX, VG, N,"$3,767.43",https://capitalwholesalediamonds.com/product/1-2-ct-marquise-8/
+ 220507-19, MARQUISE,1, SI2, H, GD, VG, VG, N,"$3,780.16",https://capitalwholesalediamonds.com/product/1-ct-marquise-22/
+2098041, MARQUISE,0.7, SI1, D, EX, EX, VG, N,"$3,790.12",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-49/
+2101005, MARQUISE,0.7, VS2, F, EX, EX, VG, N,"$3,803.65",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-9/
+2114739, MARQUISE,0.75, VS2, G, EX, EX, VG, F,"$3,877.90",https://capitalwholesalediamonds.com/product/0-75-ct-marquise-10/
+2112907, MARQUISE,0.7, VS2, F, EX, EX, EX, N,"$3,884.37",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-36/
+2103230, MARQUISE,0.75, VS2, E, EX, EX, VG, M,"$3,900.81",https://capitalwholesalediamonds.com/product/0-75-ct-marquise-5/
+ 220499-330, MARQUISE,1.01, SI1, K, EX, EX, EX, M,"$3,908.01",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-21/
+ 220418-181, MARQUISE,1.01, SI2, D, EX, VG, EX, N,"$3,924.91",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-16/
+2129964, MARQUISE,0.7, VS1, E, EX, EX, VG, M,"$3,960.81",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-64/
+ 111000-7744, MARQUISE,1, SI1, J, VG, GD, F, M,"$3,961.96",https://capitalwholesalediamonds.com/product/1-ct-marquise-66/
+ 220470-203, MARQUISE,1.01, SI2, G, EX, EX, EX, N,"$3,970.93",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-18/
+ 223417-138, MARQUISE,1.2, SI2, H, EX, VG, VG, ST,"$3,973.65",https://capitalwholesalediamonds.com/product/1-2-ct-marquise-20/
+ 220410-130, MARQUISE,1.01, SI2, G, EX, EX, VG, N,"$4,024.51",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-15/
+2134481, MARQUISE,0.73, VS2, F, EX, EX, VG, N,"$4,026.20",https://capitalwholesalediamonds.com/product/0-73-ct-marquise-4/
+ 221189-167, MARQUISE,1.01, VS2, K, EX, EX, EX, M,"$4,032.91",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-33/
+2124461, MARQUISE,0.7, VS1, E, GD, EX, VG, F,"$4,044.90",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-59/
+2122636, MARQUISE,0.76, VS1, E, EX, EX, EX, ST,"$4,070.90",https://capitalwholesalediamonds.com/product/0-76-ct-marquise-5/
+2138978, MARQUISE,0.9, SI2, I, EX, EX, VG, F,"$4,079.24",https://capitalwholesalediamonds.com/product/0-9-ct-marquise-9/
+ 222109-149, MARQUISE,0.96, SI2, G, EX, VG, VG, M,"$4,081.48",https://capitalwholesalediamonds.com/product/0-96-ct-marquise/
+2121505, MARQUISE,0.7, VS2, D, EX, EX, VG, N,"$4,092.50",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-39/
+ 220476-241, MARQUISE,1.01, SI2, F, GD, GD, GD, SL,"$4,114.65",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-19/
+2118149, MARQUISE,0.72, VS2, F, EX, EX, VG, N,"$4,126.43",https://capitalwholesalediamonds.com/product/0-72-ct-marquise-8/
+ 221125-5, MARQUISE,1.2, SI2, K, VG, EX, VG, N,"$4,143.18",https://capitalwholesalediamonds.com/product/1-2-ct-marquise-10/
+ 220458-500, MARQUISE,1.02, SI2, E, EX, VG, VG, N,"$4,144.61",https://capitalwholesalediamonds.com/product/1-02-ct-marquise-5/
+ 220440-48, MARQUISE,1.03, VS2, K, EX, EX, EX, F,"$4,146.51",https://capitalwholesalediamonds.com/product/1-03-ct-marquise-3/
+ 221221-168, MARQUISE,1, VVS2, K, EX, EX, VG, M,"$4,171.46",https://capitalwholesalediamonds.com/product/1-ct-marquise-77/
+2131069, MARQUISE,0.72, VS1, G, EX, EX, VG, N,"$4,193.33",https://capitalwholesalediamonds.com/product/0-72-ct-marquise-13/
+ 211370-63, MARQUISE,1.01, VS2, I, GD, EX, VG, N,"$4,203.71",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-4/
+2097030, MARQUISE,0.81, VS1, G, EX, EX, VG, ST,"$4,221.26",https://capitalwholesalediamonds.com/product/0-81-ct-marquise-3/
+ 223433-404, MARQUISE,1, SI2, H, EX, EX, VG, N,"$4,269.36",https://capitalwholesalediamonds.com/product/1-ct-marquise-79/
+ 223391-224, MARQUISE,1, SI2, G, GD, VG, GD, N,"$4,274.14",https://capitalwholesalediamonds.com/product/1-ct-marquise-56/
+2105151, MARQUISE,0.7, VVS2, G, EX, EX, VG, N,"$4,276.68",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-29/
+2129965, MARQUISE,0.7, VS1, F, EX, EX, VG, F,"$4,317.92",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-67/
+ 220521-76, MARQUISE,1.2, SI1, K, EX, EX, VG, ST,"$4,330.50",https://capitalwholesalediamonds.com/product/1-2-ct-marquise-5/
+2134478, MARQUISE,0.7, VVS2, G, EX, EX, VG, N,"$4,377.00",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-74/
+2135856, MARQUISE,0.7, VS1, F, VG, EX, VG, F,"$4,378.09",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-65/
+2086421, MARQUISE,0.7, VS1, G, EX, EX, VG, N,"$4,443.92",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-31/
+2066093, MARQUISE,0.91, SI2, E, EX, EX, VG, N,"$4,454.03",https://capitalwholesalediamonds.com/product/0-91-ct-marquise-2/
+ 222176-568, MARQUISE,1, SI2, G, VG, VG, VG, N,"$4,455.88",https://capitalwholesalediamonds.com/product/1-ct-marquise-78/
+ 220357-57, MARQUISE,1, VS2, J, VG, EX, VG, ST,"$4,459.00",https://capitalwholesalediamonds.com/product/1-ct-marquise-11/
+ 220458-265, MARQUISE,1, SI2, G, GD, EX, VG, M,"$4,496.44",https://capitalwholesalediamonds.com/product/1-ct-marquise-16/
+2131066, MARQUISE,0.8, SI1, F, EX, EX, EX, F,"$4,507.20",https://capitalwholesalediamonds.com/product/0-8-ct-marquise-15/
+ 223474-156, MARQUISE,1.01, SI2, G, EX, EX, EX, VSL,"$4,510.58",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-50/
+2112903, MARQUISE,0.8, SI1, D, EX, EX, VG, F,"$4,552.68",https://capitalwholesalediamonds.com/product/0-8-ct-marquise-3/
+ 220476-152, MARQUISE,1.01, SI2, E, EX, VG, VG, VSL,"$4,590.80",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-43/
+ 220191-222, MARQUISE,1.51, SI2, M, EX, EX, VG, F,"$4,597.08",https://capitalwholesalediamonds.com/product/1-51-ct-marquise-10/
+ 220499-238, MARQUISE,1.21, SI2, J, EX, VG, VG, SL,"$4,619.60",https://capitalwholesalediamonds.com/product/1-21-ct-marquise/
+ 220426-131, MARQUISE,1.01, SI2, H, EX, EX, VG, M,"$4,681.04",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-17/
+ 221129-144, MARQUISE,1, SI2, F, EX, EX, VG, N,"$4,686.50",https://capitalwholesalediamonds.com/product/1-ct-marquise-34/
+2098926, MARQUISE,0.8, SI1, D, EX, EX, VG, N,"$4,729.58",https://capitalwholesalediamonds.com/product/0-8-ct-marquise-13/
+2127867, MARQUISE,0.75, VS2, D, EX, EX, VG, N,"$4,755.71",https://capitalwholesalediamonds.com/product/0-75-ct-marquise-8/
+ 221117-202, MARQUISE,1, SI2, H, GD, EX, VG, N,"$4,758.57",https://capitalwholesalediamonds.com/product/1-ct-marquise-33/
+ 220667-97, MARQUISE,1, VS2, J, EX, EX, VG, M,"$4,787.25",https://capitalwholesalediamonds.com/product/1-ct-marquise-73/
+ 221145-163, MARQUISE,1, SI2, F, EX, VG, VG, N,"$4,787.25",https://capitalwholesalediamonds.com/product/1-ct-marquise-74/
+2097029, MARQUISE,0.9, SI2, F, EX, EX, VG, N,"$4,853.26",https://capitalwholesalediamonds.com/product/0-9-ct-marquise-8/
+2124462, MARQUISE,0.72, VS1, G, EX, EX, EX, N,"$4,873.02",https://capitalwholesalediamonds.com/product/0-72-ct-marquise-10/
+ 221195-210, MARQUISE,1, SI2, I, EX, EX, VG, N,"$4,898.14",https://capitalwholesalediamonds.com/product/1-ct-marquise-75/
+ 221136-37, MARQUISE,1, SI2, E, EX, EX, EX, ST,"$4,905.99",https://capitalwholesalediamonds.com/product/1-ct-marquise-35/
+ 210858-64, MARQUISE,1.91, SI1, L, EX, VG, EX, F,"$4,909.42",https://capitalwholesalediamonds.com/product/1-91-ct-marquise-2/
+2093585, MARQUISE,0.71, IF, E, EX, EX, VG, N,"$4,912.31",https://capitalwholesalediamonds.com/product/0-71-ct-marquise-4/
+ 220569-364, MARQUISE,1.01, SI2, H, EX, EX, EX, F,"$4,929.19",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-25/
+2131068, MARQUISE,0.79, VS1, E, EX, EX, VG, M,"$4,942.80",https://capitalwholesalediamonds.com/product/0-79-ct-marquise-5/
+ 223431-634, MARQUISE,1, SI2, H, VG, VG, VG, N,"$4,974.29",https://capitalwholesalediamonds.com/product/1-ct-marquise-59/
+ 220194-94, MARQUISE,1, SI2, G, EX, EX, VG, N,"$5,026.84",https://capitalwholesalediamonds.com/product/1-ct-marquise-5/
+ 221143-51, MARQUISE,1, SI2, G, EX, EX, EX, N,"$5,054.14",https://capitalwholesalediamonds.com/product/1-ct-marquise-37/
+ 220333-702, MARQUISE,1.2, SI2, J, GD, VG, VG, N,"$5,058.15",https://capitalwholesalediamonds.com/product/1-2-ct-marquise-21/
+ 220522-82, MARQUISE,1, VS2, J, VG, EX, EX, N,"$5,130.45",https://capitalwholesalediamonds.com/product/1-ct-marquise-23/
+ 220639-109, MARQUISE,1, SI2, E, GD, EX, VG, F,"$5,222.93",https://capitalwholesalediamonds.com/product/1-ct-marquise-71/
+2126767, MARQUISE,0.7, VVS2, D, EX, EX, VG, N,"$5,252.89",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-55/
+2102027, MARQUISE,0.7, VVS1, D, EX, EX, EX, N,"$5,287.23",https://capitalwholesalediamonds.com/product/0-7-ct-marquise-51/
+ 221190-71, MARQUISE,1.01, SI1, I, EX, EX, EX, ST,"$5,313.25",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-34/
+ 223466-231, MARQUISE,1, SI1, H, VG, EX, VG, F,"$5,354.44",https://capitalwholesalediamonds.com/product/1-ct-marquise-63/
+ 220416-144, MARQUISE,1, SI2, E, FG, EX, VG, N,"$5,440.83",https://capitalwholesalediamonds.com/product/1-ct-marquise-14/
+ 222118-714, MARQUISE,1, SI1, H, VG, EX, VG, ST,"$5,542.88",https://capitalwholesalediamonds.com/product/1-ct-marquise-48/
+ 220481-240, MARQUISE,1.01, VS1, J, EX, EX, VG, M,"$5,563.87",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-44/
+ 220418-233, MARQUISE,1, SI2, H, VG, VG, VG, N,"$5,577.57",https://capitalwholesalediamonds.com/product/1-ct-marquise-15/
+ 220447-168, MARQUISE,1.29, SI2, I, EX, EX, EX, N,"$5,639.06",https://capitalwholesalediamonds.com/product/1-29-ct-marquise-5/
+ 220476-293, MARQUISE,1, SI2, F, EX, EX, VG, N,"$5,663.13",https://capitalwholesalediamonds.com/product/1-ct-marquise-67/
+ 223446-600, MARQUISE,1.01, SI2, G, EX, EX, EX, N,"$5,685.97",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-39/
+ 222118-851, MARQUISE,1.21, SI2, J, EX, EX, VG, F,"$5,699.27",https://capitalwholesalediamonds.com/product/1-21-ct-marquise-3/
+2128951, MARQUISE,0.8, VVS2, D, EX, EX, EX, F,"$5,716.43",https://capitalwholesalediamonds.com/product/0-8-ct-marquise-8/
+ 214129-88, MARQUISE,1.5, SI2, J, VG, EX, VG, N,"$5,794.75",https://capitalwholesalediamonds.com/product/1-5-ct-marquise-3/
+ 220559-58, MARQUISE,1, VS2, I, EX, EX, EX, N,"$5,863.72",https://capitalwholesalediamonds.com/product/1-ct-marquise-27/
+ 220524-446, MARQUISE,1, SI2, D, EX, EX, VG, N,"$5,893.06",https://capitalwholesalediamonds.com/product/1-ct-marquise-68/
+ 220151-1649, MARQUISE,1.2, SI2, D, EX, EX, VG, M,"$5,956.70",https://capitalwholesalediamonds.com/product/1-2-ct-marquise/
+ 221117-28, MARQUISE,1.01, SI1, H, EX, EX, VG, N,"$6,156.62",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-29/
+ 220440-91, MARQUISE,1.51, SI2, J, VG, EX, VG, F,"$6,319.76",https://capitalwholesalediamonds.com/product/1-51-ct-marquise-16/
+ 221195-120, MARQUISE,1.01, SI2, D, EX, EX, EX, N,"$6,334.19",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-36/
+2081777, MARQUISE,0.9, VS1, F, VG, EX, VG, N,"$6,334.61",https://capitalwholesalediamonds.com/product/0-9-ct-marquise-2/
+ 220206-114, MARQUISE,1.01, SI1, H, EX, EX, EX, N,"$6,362.30",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-7/
+ 221157-36, MARQUISE,1, SI1, F, GD, EX, VG, N,"$6,375.67",https://capitalwholesalediamonds.com/product/1-ct-marquise-42/
+ 222147-209, MARQUISE,1.2, SI2, I, VG, EX, VG, F,"$6,440.38",https://capitalwholesalediamonds.com/product/1-2-ct-marquise-19/
+ 223431-479, MARQUISE,1, SI1, G, EX, EX, VG, N,"$6,474.78",https://capitalwholesalediamonds.com/product/1-ct-marquise-57/
+ 220557-78, MARQUISE,1.01, SI2, D, EX, EX, EX, F,"$6,596.87",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-22/
+ 221195-212, MARQUISE,1, SI1, G, EX, EX, VG, N,"$6,692.27",https://capitalwholesalediamonds.com/product/1-ct-marquise-45/
+ 220621-515, MARQUISE,1, SI2, D, EX, EX, VG, N,"$6,713.53",https://capitalwholesalediamonds.com/product/1-ct-marquise-70/
+ 223477-197, MARQUISE,1, SI1, F, VG, VG, GD, N,"$6,759.17",https://capitalwholesalediamonds.com/product/1-ct-marquise-64/
+ 220413-138, MARQUISE,1.3, SI2, I, EX, EX, EX, N,"$6,781.09",https://capitalwholesalediamonds.com/product/1-3-ct-marquise/
+ 223433-432, MARQUISE,1, SI1, G, EX, EX, EX, F,"$6,781.45",https://capitalwholesalediamonds.com/product/1-ct-marquise-60/
+ 220588-419, MARQUISE,1.01, SI1, E, EX, VG, EX, M,"$6,810.00",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-46/
+ 221173-2, MARQUISE,1.01, SI1, H, EX, EX, VG, N,"$6,944.36",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-32/
+ 221172-6, MARQUISE,1, SI1, F, VG, EX, VG, F,"$7,010.36",https://capitalwholesalediamonds.com/product/1-ct-marquise-44/
+ 111000-7629, MARQUISE,1.01, VS2, G, VG, GD, GD, F,"$7,142.82",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-42/
+ 220330-37, MARQUISE,2, SI2, M, EX, EX, VG, F,"$7,144.38",https://capitalwholesalediamonds.com/product/2-ct-marquise-3/
+ 221117-121, MARQUISE,1.01, VS2, E, EX, EX, VG, ST,"$7,193.05",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-28/
+ 221114-146, MARQUISE,1, SI1, D, EX, EX, VG, F,"$7,211.75",https://capitalwholesalediamonds.com/product/1-ct-marquise-32/
+ 220536-159, MARQUISE,1, SI1, E, VG, EX, EX, N,"$7,280.78",https://capitalwholesalediamonds.com/product/1-ct-marquise-25/
+ 111000-7091, MARQUISE,1.5, SI2, H, EX, VG, VG, N,"$7,359.63",https://capitalwholesalediamonds.com/product/1-5-ct-marquise/
+ 221125-35, MARQUISE,1.03, SI1, D, EX, EX, EX, M,"$7,425.97",https://capitalwholesalediamonds.com/product/1-03-ct-marquise-4/
+ 221142-112, MARQUISE,1, VS2, H, VG, EX, EX, N,"$7,447.86",https://capitalwholesalediamonds.com/product/1-ct-marquise-36/
+ 223461-200, MARQUISE,1, SI1, D, EX, EX, VG, F,"$7,454.69",https://capitalwholesalediamonds.com/product/1-ct-marquise-61/
+ 220482-699, MARQUISE,1.01, SI1, F, EX, EX, VG, N,"$7,475.21",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-20/
+ 222103-35, MARQUISE,1.5, SI2, J, VG, EX, EX, N,"$7,489.30",https://capitalwholesalediamonds.com/product/1-5-ct-marquise-23/
+2118148, MARQUISE,0.9, VS2, D, EX, EX, EX, N,"$7,617.03",https://capitalwholesalediamonds.com/product/0-9-ct-marquise-7/
+ 227057-22, MARQUISE,1.21, SI2, H, EX, EX, EX, M,"$7,623.82",https://capitalwholesalediamonds.com/product/1-21-ct-marquise-4/
+ 221149-579, MARQUISE,1, VS2, G, EX, EX, VG, ST,"$7,705.95",https://capitalwholesalediamonds.com/product/1-ct-marquise-41/
+ 220016-210, MARQUISE,1.51, SI2, G, GD, EX, VG, N,"$7,762.51",https://capitalwholesalediamonds.com/product/1-51-ct-marquise-9/
+ 220568-621, MARQUISE,1, SI1, D, EX, EX, VG, N,"$7,763.11",https://capitalwholesalediamonds.com/product/1-ct-marquise-29/
+ 221195-48, MARQUISE,1.2, SI2, G, VG, EX, VG, N,"$7,832.66",https://capitalwholesalediamonds.com/product/1-2-ct-marquise-15/
+ 223477-227, MARQUISE,1, SI1, F, EX, EX, VG, N,"$7,846.39",https://capitalwholesalediamonds.com/product/1-ct-marquise-80/
+ 220531-165, MARQUISE,1.01, VS2, D, EX, EX, EX, ST,"$7,929.74",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-45/
+ 220657-44, MARQUISE,1, SI1, F, EX, EX, EX, F,"$7,940.35",https://capitalwholesalediamonds.com/product/1-ct-marquise-72/
+ 221154-49, MARQUISE,1.29, SI2, G, EX, EX, VG, F,"$7,944.95",https://capitalwholesalediamonds.com/product/1-29-ct-marquise-4/
+ 220413-196, MARQUISE,1.2, SI2, H, EX, EX, EX, N,"$8,099.65",https://capitalwholesalediamonds.com/product/1-2-ct-marquise-3/
+ 220479-218, MARQUISE,1, SI1, E, EX, EX, EX, N,"$8,434.37",https://capitalwholesalediamonds.com/product/1-ct-marquise-20/
+ 220374-33, MARQUISE,1.2, SI1, H, EX, EX, VG, ST,"$8,459.31",https://capitalwholesalediamonds.com/product/1-2-ct-marquise-2/
+ 220358-48, MARQUISE,2.01, VS2, N, EX, EX, VG, N,"$8,484.52",https://capitalwholesalediamonds.com/product/2-01-ct-marquise-18/
+ 220410-271, MARQUISE,1.5, SI2, D, EX, EX, VG, N,"$8,489.93",https://capitalwholesalediamonds.com/product/1-5-ct-marquise-10/
+ 220320-444, MARQUISE,1, VS2, G, EX, EX, EX, N,"$8,554.29",https://capitalwholesalediamonds.com/product/1-ct-marquise-9/
+ 221146-155, MARQUISE,1.51, SI2, J, EX, EX, EX, F,"$8,572.18",https://capitalwholesalediamonds.com/product/1-51-ct-marquise-21/
+ 220583-102, MARQUISE,1, VS1, D, VG, EX, VG, M,"$8,587.64",https://capitalwholesalediamonds.com/product/1-ct-marquise-69/
+ 221161-14, MARQUISE,1, VS2, D, EX, EX, EX, M,"$8,669.78",https://capitalwholesalediamonds.com/product/1-ct-marquise-43/
+ 220476-267, MARQUISE,1.51, SI2, J, EX, EX, VG, ST,"$8,673.39",https://capitalwholesalediamonds.com/product/1-51-ct-marquise-17/
+ 221220-170, MARQUISE,1, VS2, D, VG, EX, VG, N,"$8,683.19",https://capitalwholesalediamonds.com/product/1-ct-marquise-76/
+ 214207-266, MARQUISE,1.51, SI2, J, VG, EX, EX, ST,"$8,727.37",https://capitalwholesalediamonds.com/product/1-51-ct-marquise-7/
+ 220174-350, MARQUISE,1.5, SI2, J, EX, EX, VG, M,"$8,742.79",https://capitalwholesalediamonds.com/product/1-5-ct-marquise-6/
+ 222171-774, MARQUISE,1.01, VS1, G, EX, EX, VG, M,"$8,774.98",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-49/
+ 220195-164, MARQUISE,1.01, VS2, F, EX, EX, EX, N,"$8,781.09",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-6/
+ 220618-59, MARQUISE,1.01, VVS2, F, EX, EX, VG, ST,"$8,822.74",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-48/
+ 220402-167, MARQUISE,1.01, VS1, F, EX, EX, EX, ST,"$8,956.33",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-14/
+ 220573-63, MARQUISE,1.21, SI2, E, VG, EX, EX, N,"$8,989.13",https://capitalwholesalediamonds.com/product/1-21-ct-marquise-2/
+ 220406-295, MARQUISE,1, VS2, D, GD, EX, VG, N,"$8,992.75",https://capitalwholesalediamonds.com/product/1-ct-marquise-13/
+ 221114-141, MARQUISE,1.5, SI2, J, GD, EX, VG, N,"$9,010.92",https://capitalwholesalediamonds.com/product/1-5-ct-marquise-16/
+ 220536-130, MARQUISE,1.2, SI2, E, EX, EX, EX, N,"$9,040.51",https://capitalwholesalediamonds.com/product/1-2-ct-marquise-22/
+ 227044-3, MARQUISE,1.03, VVS1, F, EX, EX, EX, M,"$9,078.79",https://capitalwholesalediamonds.com/product/1-03-ct-marquise-6/
+ 223482-137, MARQUISE,1.5, SI2, I, GD, VG, VG, M,"$9,132.45",https://capitalwholesalediamonds.com/product/1-5-ct-marquise-35/
+ 220593-58, MARQUISE,1.01, VS1, E, EX, VG, VG, M,"$9,207.45",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-47/
+ 221145-39, MARQUISE,1.01, VS1, F, EX, EX, VG, F,"$9,413.01",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-30/
+ 221194-78, MARQUISE,1.51, SI2, I, VG, VG, VG, VSL,"$9,488.73",https://capitalwholesalediamonds.com/product/1-51-ct-marquise-25/
+ 220476-329, MARQUISE,1.2, SI1, G, EX, EX, VG, M,"$9,504.35",https://capitalwholesalediamonds.com/product/1-2-ct-marquise-4/
+ 220220-595, MARQUISE,1, VS2, D, VG, EX, VG, F,"$9,660.63",https://capitalwholesalediamonds.com/product/1-ct-marquise-7/
+ 221150-136, MARQUISE,2.02, SI2, L, EX, EX, EX, VSL,"$9,703.53",https://capitalwholesalediamonds.com/product/2-02-ct-marquise-8/
+ 221195-56, MARQUISE,1.01, VVS2, G, EX, EX, EX, N,"$9,731.38",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-37/
+ 221172-47, MARQUISE,1.2, SI1, G, VG, EX, VG, F,"$9,772.98",https://capitalwholesalediamonds.com/product/1-2-ct-marquise-12/
+ 220529-259, MARQUISE,1, VS2, D, EX, EX, VG, N,"$9,809.31",https://capitalwholesalediamonds.com/product/1-ct-marquise-24/
+ 220621-530, MARQUISE,1.5, SI2, H, FG, EX, VG, M,"$9,875.86",https://capitalwholesalediamonds.com/product/1-5-ct-marquise-31/
+ 220445-359, MARQUISE,1.5, SI2, J, EX, EX, EX, N,"$9,956.05",https://capitalwholesalediamonds.com/product/1-5-ct-marquise-15/
+ 220618-55, MARQUISE,1.01, VS2, D, EX, EX, EX, N,"$10,120.81",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-27/
+ 220639-19, MARQUISE,1.02, VS1, F, EX, EX, VG, N,"$10,124.56",https://capitalwholesalediamonds.com/product/1-02-ct-marquise-7/
+ 227026-14, MARQUISE,1.01, VS2, D, EX, EX, EX, N,"$10,142.96",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-41/
+ 221168-158, MARQUISE,1.03, VS2, D, EX, VG, VG, N,"$10,196.78",https://capitalwholesalediamonds.com/product/1-03-ct-marquise-5/
+ 220356-47, MARQUISE,1.51, SI2, G, EX, EX, EX, N,"$10,579.81",https://capitalwholesalediamonds.com/product/1-51-ct-marquise-14/
+ 220588-244, MARQUISE,1.5, SI2, E, GD, EX, VG, M,"$10,602.91",https://capitalwholesalediamonds.com/product/1-5-ct-marquise-30/
+ 227053-9, MARQUISE,1.02, VS1, F, EX, EX, VG, N,"$10,623.05",https://capitalwholesalediamonds.com/product/1-02-ct-marquise-6/
+ 222134-529, MARQUISE,1, VS1, F, EX, EX, EX, N,"$10,672.19",https://capitalwholesalediamonds.com/product/1-ct-marquise-50/
+ 221169-50, MARQUISE,1.5, SI2, J, EX, EX, EX, M,"$10,685.35",https://capitalwholesalediamonds.com/product/1-5-ct-marquise-20/
+ 220618-53, MARQUISE,1.1, VS2, D, EX, EX, EX, N,"$10,840.86",https://capitalwholesalediamonds.com/product/1-1-ct-marquise/
+ 221150-70, MARQUISE,1.5, SI2, G, VG, EX, EX, F,"$11,907.42",https://capitalwholesalediamonds.com/product/1-5-ct-marquise-18/
+ 220440-77, MARQUISE,1.5, SI2, I, EX, EX, EX, N,"$11,977.36",https://capitalwholesalediamonds.com/product/1-5-ct-marquise-13/
+ 220623-186, MARQUISE,1.5, SI2, G, EX, EX, EX, M,"$12,352.31",https://capitalwholesalediamonds.com/product/1-5-ct-marquise-32/
+ 221145-271, MARQUISE,1.5, SI2, D, VG, VG, VG, ST,"$12,506.94",https://capitalwholesalediamonds.com/product/1-5-ct-marquise-17/
+ 223409-118, MARQUISE,1.5, SI1, I, GD, EX, VG, N,"$12,519.07",https://capitalwholesalediamonds.com/product/1-5-ct-marquise-27/
+ 220408-108, MARQUISE,1.5, SI1, H, GD, EX, EX, M,"$12,696.17",https://capitalwholesalediamonds.com/product/1-5-ct-marquise-9/
+ 220061-731, MARQUISE,2.02, SI2, J, GD, EX, EX, VSL,"$12,841.89",https://capitalwholesalediamonds.com/product/2-02-ct-marquise-7/
+ 222192-195, MARQUISE,1.2, VS2, E, EX, EX, EX, N,"$13,265.67",https://capitalwholesalediamonds.com/product/1-2-ct-marquise-23/
+ 220266-62, MARQUISE,1.01, IF, D, EX, EX, VG, N,"$13,428.33",https://capitalwholesalediamonds.com/product/1-01-ct-marquise-11/
+ 220416-192, MARQUISE,1.5, SI1, H, GD, EX, EX, M,"$13,481.41",https://capitalwholesalediamonds.com/product/1-5-ct-marquise-11/
+ 220569-202, MARQUISE,1.2, VS2, E, EX, EX, VG, N,"$13,785.15",https://capitalwholesalediamonds.com/product/1-2-ct-marquise-7/
+ 220418-198, MARQUISE,1.5, SI2, H, VG, EX, EX, N,"$13,936.10",https://capitalwholesalediamonds.com/product/1-5-ct-marquise-12/
+ 220530-292, MARQUISE,1.52, SI2, D, EX, EX, VG, N,"$14,339.41",https://capitalwholesalediamonds.com/product/1-52-ct-marquise-2/
+ 220440-62, MARQUISE,2, SI2, H, EX, VG, VG, N,"$14,399.32",https://capitalwholesalediamonds.com/product/2-ct-marquise-15/
+ 227035-14, MARQUISE,1.08, IF, D, EX, EX, EX, N,"$14,450.56",https://capitalwholesalediamonds.com/product/1-08-ct-marquise-3/
+ 221142-115, MARQUISE,1.51, SI1, D, VG, EX, EX, ST,"$14,633.06",https://capitalwholesalediamonds.com/product/1-51-ct-marquise-20/
+ 220345-44, MARQUISE,1.51, SI2, G, EX, EX, VG, F,"$14,700.50",https://capitalwholesalediamonds.com/product/1-51-ct-marquise-13/
+ 221149-599, MARQUISE,1.51, SI2, D, EX, EX, EX, F,"$14,700.50",https://capitalwholesalediamonds.com/product/1-51-ct-marquise-22/
+ 223431-608, MARQUISE,2, SI2, J, GD, EX, VG, F,"$14,714.12",https://capitalwholesalediamonds.com/product/2-ct-marquise-11/
+ 222134-461, MARQUISE,1.71, SI2, H, EX, EX, VG, M,"$15,477.69",https://capitalwholesalediamonds.com/product/1-71-ct-marquise-4/
+ 221150-183, MARQUISE,2, SI1, K, EX, EX, EX, N,"$15,965.85",https://capitalwholesalediamonds.com/product/2-ct-marquise-9/
+ 220214-389, MARQUISE,1.51, SI1, H, EX, EX, EX, N,"$15,998.94",https://capitalwholesalediamonds.com/product/1-51-ct-marquise-12/
+ 222082-522, MARQUISE,1.7, SI1, H, VG, EX, EX, M,"$16,083.28",https://capitalwholesalediamonds.com/product/1-7-ct-marquise-2/
+ 225026-238, MARQUISE,1.51, SI1, G, EX, EX, VG, F,"$16,436.42",https://capitalwholesalediamonds.com/product/1-51-ct-marquise-29/
+ 223409-668, MARQUISE,2, SI2, I, GD, EX, VG, M,"$16,774.65",https://capitalwholesalediamonds.com/product/2-ct-marquise-16/
+ 221061-226, MARQUISE,2.01, SI2, I, EX, EX, EX, N,"$16,787.13",https://capitalwholesalediamonds.com/product/2-01-ct-marquise-22/
+ 221229-158, MARQUISE,1.7, SI2, E, VG, EX, VG, M,"$16,864.97",https://capitalwholesalediamonds.com/product/1-7-ct-marquise-4/
+ 214182-446, MARQUISE,1.51, SI1, F, EX, EX, EX, N,"$16,974.82",https://capitalwholesalediamonds.com/product/1-51-ct-marquise-6/
+ 221133-56, MARQUISE,1.79, SI2, I, EX, EX, VG, N,"$16,981.93",https://capitalwholesalediamonds.com/product/1-79-ct-marquise/
+ 211432-6, MARQUISE,1.5, VS2, D, EX, EX, VG, M,"$17,190.55",https://capitalwholesalediamonds.com/product/1-5-ct-marquise-2/
+ 221196-188, MARQUISE,1.71, SI2, H, EX, EX, VG, N,"$17,209.08",https://capitalwholesalediamonds.com/product/1-71-ct-marquise-3/
+ 220266-60, MARQUISE,1.5, SI1, D, VG, EX, EX, N,"$17,334.85",https://capitalwholesalediamonds.com/product/1-5-ct-marquise-8/
+ 214273-113, MARQUISE,1.51, SI1, D, EX, EX, EX, N,"$17,769.44",https://capitalwholesalediamonds.com/product/1-51-ct-marquise-8/
+ 221168-107, MARQUISE,1.5, VS2, G, EX, EX, VG, N,"$18,199.29",https://capitalwholesalediamonds.com/product/1-5-ct-marquise-34/
+ 220194-92, MARQUISE,1.51, SI1, G, EX, EX, EX, N,"$18,292.04",https://capitalwholesalediamonds.com/product/1-51-ct-marquise-11/
+ 220413-128, MARQUISE,2.01, SI2, J, EX, EX, VG, N,"$19,489.58",https://capitalwholesalediamonds.com/product/2-01-ct-marquise-20/
+ 222146-108, MARQUISE,1.5, VS2, F, EX, EX, EX, N,"$19,934.59",https://capitalwholesalediamonds.com/product/1-5-ct-marquise-26/
+ 220421-65, MARQUISE,1.51, VS2, D, EX, EX, EX, M,"$19,971.40",https://capitalwholesalediamonds.com/product/1-51-ct-marquise-15/
+ 220282-118, MARQUISE,2, SI2, I, VG, EX, VG, N,"$20,135.73",https://capitalwholesalediamonds.com/product/2-ct-marquise-2/
+ 221180-170, MARQUISE,1.51, VS2, E, EX, VG, VG, N,"$20,312.13",https://capitalwholesalediamonds.com/product/1-51-ct-marquise-24/
+ 227029-54, MARQUISE,2, SI2, I, EX, EX, EX, N,"$20,662.17",https://capitalwholesalediamonds.com/product/2-ct-marquise-13/
+ 220678-87, MARQUISE,1.7, SI2, D, EX, EX, EX, N,"$20,782.92",https://capitalwholesalediamonds.com/product/1-7-ct-marquise-3/
+ 222138-673, MARQUISE,1.5, VS2, E, EX, EX, VG, N,"$21,088.65",https://capitalwholesalediamonds.com/product/1-5-ct-marquise-25/
+ 221215-8, MARQUISE,2.51, SI2, G, EX, EX, EX, SL,"$21,116.31",https://capitalwholesalediamonds.com/product/2-51-ct-marquise-2/
+ 220536-167, MARQUISE,1.51, VS2, E, EX, EX, EX, N,"$21,302.35",https://capitalwholesalediamonds.com/product/1-51-ct-marquise-31/

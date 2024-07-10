@@ -1,0 +1,437 @@
+1712669925007	geckodriver	INFO	Listening on 127.0.0.1:53783
+1712669925504	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/bin ... te" "--remote-debugging-port" "43615" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexbZD3y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712669926626	Marionette	INFO	Marionette enabled
+1712669926838	Marionette	INFO	Listening on port 38867
+Read port: 38867
+WebDriver BiDi listening on ws://127.0.0.1:43615
+1712669927322	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:43615/devtools/browser/1ed3c4eb-308c-49e2-b6b1-b5c5c86db86d
+1712669940786	Marionette	INFO	Stopped listening on port 38867
+JavaScript warning: https://webresource.tripcdn.com/ares2/train/csec/5.0.8/default/sec/c-sec.js?v=202449, line 1: Script terminated by timeout at:
+window[j].toString/x<@https://webresource.tripcdn.com/ares2/train/csec/5.0.8/default/sec/c-sec.js?v=202449:1:27381
+
+[Parent 19839, IPC I/O Parent] WARNING: waitid failed pid:20016 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 19839, IPC I/O Parent] WARNING: waitid failed pid:19925 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 19839, IPC I/O Parent] WARNING: waitid failed pid:19908 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+1713174272923	geckodriver	INFO	Listening on 127.0.0.1:51465
+1713174273427	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/bin ... te" "--remote-debugging-port" "33719" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilextcrfo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713174274633	Marionette	INFO	Marionette enabled
+1713174274838	Marionette	INFO	Listening on port 37043
+Read port: 37043
+WebDriver BiDi listening on ws://127.0.0.1:33719
+1713174275428	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:33719/devtools/browser/95fd2147-b6aa-460a-81ba-1fb00c21650d
+1713174280843	Marionette	INFO	Stopped listening on port 37043
+[Parent 18774, IPC I/O Parent] WARNING: waitid failed pid:18973 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 18774, IPC I/O Parent] WARNING: waitid failed pid:18981 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 18774, IPC I/O Parent] WARNING: waitid failed pid:18966 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 18774, IPC I/O Parent] WARNING: waitid failed pid:18851 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+1713174541371	geckodriver	INFO	Listening on 127.0.0.1:45553
+1713174541377	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/bin ... te" "--remote-debugging-port" "44531" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6VCs0g"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713174542672	Marionette	INFO	Marionette enabled
+1713174542905	Marionette	INFO	Listening on port 35731
+WebDriver BiDi listening on ws://127.0.0.1:44531
+Read port: 35731
+1713174543443	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:44531/devtools/browser/d29db863-30c3-4d5a-96b4-3d5da66a2e28
+JavaScript error: https://www.riu.com/en/hotel/ line 101 > injectedScript, line 1: ReferenceError: gtag is not defined
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1713174551772	Marionette	INFO	Stopped listening on port 35731
+[Parent 19309, IPC I/O Parent] WARNING: waitid failed pid:19558 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 19309, IPC I/O Parent] WARNING: waitid failed pid:19485 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 19309, IPC I/O Parent] WARNING: waitid failed pid:19489 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 19309, IPC I/O Parent] WARNING: waitid failed pid:19404 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 19309, IPC I/O Parent] WARNING: waitid failed pid:19432 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 19309, IPC I/O Parent] WARNING: waitid failed pid:19384 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+1713175077985	geckodriver	INFO	Listening on 127.0.0.1:53441
+1713175078498	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/bin ... te" "--remote-debugging-port" "58213" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHFlVBv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713175079596	Marionette	INFO	Marionette enabled
+1713175079771	Marionette	INFO	Listening on port 37521
+WebDriver BiDi listening on ws://127.0.0.1:58213
+Read port: 37521
+1713175080260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58213/devtools/browser/a43a069a-9023-4a0c-98a1-2d2077235749
+JavaScript error: https://www.riu.com/en/hotel/ line 101 > injectedScript, line 1: ReferenceError: gtag is not defined
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-123T&l=dataLayer&cx=c, line 225: Script terminated by timeout at:
+V@https://www.googletagmanager.com/gtag/js?id=G-123T&l=dataLayer&cx=c:225:956
+aa.am@https://www.googletagmanager.com/gtag/js?id=G-123T&l=dataLayer&cx=c:467:137
+c@https://www.googletagmanager.com/gtag/js?id=G-123T&l=dataLayer&cx=c:488:675
+xm@https://www.googletagmanager.com/gtag/js?id=G-123T&l=dataLayer&cx=c:230:298
+wm.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-123T&l=dataLayer&cx=c:233:278
+wm.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-123T&l=dataLayer&cx=c:231:207
+pm@https://www.googletagmanager.com/gtag/js?id=G-123T&l=dataLayer&cx=c:228:636
+pG/<@https://www.googletagmanager.com/gtag/js?id=G-123T&l=dataLayer&cx=c:489:178
+aa.tk/<@https://www.googletagmanager.com/gtag/js?id=G-123T&l=dataLayer&cx=c:437:126
+aa.tk/c/<@https://www.googletagmanager.com/gtag/js?id=G-123T&l=dataLayer&cx=c:436:420
+c@https://ajax.cloudflare.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js:1:9405
+
+1713175095844	Marionette	INFO	Stopped listening on port 37521
+[Parent 19932, IPC I/O Parent] WARNING: waitid failed pid:20114 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 19932, IPC I/O Parent] WARNING: waitid failed pid:20122 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 19932, IPC I/O Parent] WARNING: waitid failed pid:20111 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 19932, IPC I/O Parent] WARNING: waitid failed pid:20000 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+1713175096583	geckodriver	INFO	Listening on 127.0.0.1:59449
+1713175097101	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/bin ... te" "--remote-debugging-port" "35881" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXzep9r"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713175098123	Marionette	INFO	Marionette enabled
+1713175098311	Marionette	INFO	Listening on port 33441
+WebDriver BiDi listening on ws://127.0.0.1:35881
+Read port: 33441
+1713175098794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:35881/devtools/browser/e2bfe52d-be50-4776-9fc1-8d94451600b6
+JavaScript error: https://www.riu.com/en/hotel/ line 101 > injectedScript, line 1: ReferenceError: gtag is not defined
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1713175128252	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:89:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:204:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:112:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:761:46
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:810:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:665:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 89, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 89))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:89:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:204:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:112:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:761:46
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:810:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:665:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 89, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 89))
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+JavaScript error: https://www.riu.com/en/hotel/ line 101 > injectedScript, line 1: ReferenceError: gtag is not defined
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:89:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:204:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:112:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:761:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:358:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 89, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 89))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:89:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:204:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:112:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:761:46
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:810:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:665:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 89, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 89))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:89:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:204:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:112:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:761:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:358:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 89, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 89))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+JavaScript error: https://www.riu.com/en/hotel/maldivas/dhaalu-atoll/hotel-riu-atoll/ line 101 > injectedScript, line 1: ReferenceError: gtag is not defined
+JavaScript error: https://www.riu.com/en/hotel/maldivas/dhaalu-atoll/hotel-riu-atoll/ line 804 > injectedScript, line 1: TypeError: google_tag_manager.rm[949053](...) is undefined
+libva info: VA-API version 1.14.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_14
+libva info: va_openDriver() returns 0
+JavaScript warning: https://www.youtube.com/embed/Be9M89BB248?modestbranding=1&autoplay=0&controls=0&showinfo=0&rel=0&enablejsapi=1&version=3&playerapiid=mbYTP_bgndVideo&origin=https%3A%2F%2Fwww.riu.com&allowfullscreen=true&wmode=transparent&iv_load_policy=3&html5=1&widgetid=1 line 872 > injectedScript line 2 > eval line 1303 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/YDyovHw-xwWf1wKdxMBnmF3BGXV9YwcWymZKvYX87YY.js line 2 > eval line 5873 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gumi.criteo.com/syncframe?topUrl=www.riu.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%227oUe_V82bCUyQiUyQkhxSDJSZVc4MktpZ0Zvdmhtd2kwVEVaMmxQd2J1bjJud29BQUFYJTJGNWVLY2FYUWFTWElwT2k3Rm1UUTMlMkZ6MFJUMDY2QldUNEZEeiUyRnVLbWU5YiUyRjJWdUNBMHQ1MG9DU2haRUtITjJTM2hrNVpRWUFmQndUNktLdlJ3QnhSbktMM1V1dG01M0lvVGJ4NDJXYWJienJnV2VnYm5XajRTZWJFWDNMeHYwNlklM0Q%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22riu.com%22,%22topUrl%22:%22www.riu.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.logPixel@https://gumi.criteo.com/syncframe?topUrl=www.riu.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%227oUe_V82bCUyQiUyQkhxSDJSZVc4MktpZ0Zvdmhtd2kwVEVaMmxQd2J1bjJud29BQUFYJTJGNWVLY2FYUWFTWElwT2k3Rm1UUTMlMkZ6MFJUMDY2QldUNEZEeiUyRnVLbWU5YiUyRjJWdUNBMHQ1MG9DU2haRUtITjJTM2hrNVpRWUFmQndUNktLdlJ3QnhSbktMM1V1dG01M0lvVGJ4NDJXYWJienJnV2VnYm5XajRTZWJFWDNMeHYwNlklM0Q%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22riu.com%22,%22topUrl%22:%22www.riu.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3418
+r.prototype.flushEventQueue@https://gumi.criteo.com/syncframe?topUrl=www.riu.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%227oUe_V82bCUyQiUyQkhxSDJSZVc4MktpZ0Zvdmhtd2kwVEVaMmxQd2J1bjJud29BQUFYJTJGNWVLY2FYUWFTWElwT2k3Rm1UUTMlMkZ6MFJUMDY2QldUNEZEeiUyRnVLbWU5YiUyRjJWdUNBMHQ1MG9DU2haRUtITjJTM2hrNVpRWUFmQndUNktLdlJ3QnhSbktMM1V1dG01M0lvVGJ4NDJXYWJienJnV2VnYm5XajRTZWJFWDNMeHYwNlklM0Q%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22riu.com%22,%22topUrl%22:%22www.riu.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3152
+r/<@https://gumi.criteo.com/syncframe?topUrl=www.riu.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%227oUe_V82bCUyQiUyQkhxSDJSZVc4MktpZ0Zvdmhtd2kwVEVaMmxQd2J1bjJud29BQUFYJTJGNWVLY2FYUWFTWElwT2k3Rm1UUTMlMkZ6MFJUMDY2QldUNEZEeiUyRnVLbWU5YiUyRjJWdUNBMHQ1MG9DU2haRUtITjJTM2hrNVpRWUFmQndUNktLdlJ3QnhSbktMM1V1dG01M0lvVGJ4NDJXYWJienJnV2VnYm5XajRTZWJFWDNMeHYwNlklM0Q%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22riu.com%22,%22topUrl%22:%22www.riu.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript warning: https://www.youtube.com/s/player/7ebf4817/player_ias.vflset/en_US/base.js, line 1963: Script terminated by timeout at:
+pB@https://www.youtube.com/s/player/7ebf4817/player_ias.vflset/en_US/base.js:1963:384
+Bpa@https://www.youtube.com/s/player/7ebf4817/player_ias.vflset/en_US/base.js:1982:200
+Cpa@https://www.youtube.com/s/player/7ebf4817/player_ias.vflset/en_US/base.js:1979:375
+g.AB@https://www.youtube.com/s/player/7ebf4817/player_ias.vflset/en_US/base.js:1986:79
+zbb@https://www.youtube.com/s/player/7ebf4817/player_ias.vflset/en_US/base.js:6788:298
+Gbb/<@https://www.youtube.com/s/player/7ebf4817/player_ias.vflset/en_US/base.js:6809:1
+EB.prototype.then@https://www.youtube.com/s/player/7ebf4817/player_ias.vflset/en_US/base.js:8772:577
+Gbb@https://www.youtube.com/s/player/7ebf4817/player_ias.vflset/en_US/base.js:6808:67
+g.k.reportStats@https://www.youtube.com/s/player/7ebf4817/player_ias.vflset/en_US/base.js:12550:334
+rcb@https://www.youtube.com/s/player/7ebf4817/player_ias.vflset/en_US/base.js:6898:240
+Ddb@https://www.youtube.com/s/player/7ebf4817/player_ias.vflset/en_US/base.js:7064:20
+g.k.sendAbandonmentPing@https://www.youtube.com/s/player/7ebf4817/player_ias.vflset/en_US/base.js:12676:114
+g.k.sendAbandonmentPing@https://www.youtube.com/s/player/7ebf4817/player_ias.vflset/en_US/base.js:10790:62
+KT/a.state.B[b]@https://www.youtube.com/s/player/7ebf4817/player_ias.vflset/en_US/base.js:4883:53
+zx/<@https://www.youtube.com/s/player/7ebf4817/www-embed-player.vflset/www-embed-player.js:1860:106
+Mx@https://www.youtube.com/s/player/7ebf4817/www-embed-player.vflset/www-embed-player.js:1896:46
+@https://www.youtube.com/s/player/7ebf4817/www-embed-player.vflset/www-embed-player.js:1905:137
+dl/<@https://www.youtube.com/s/player/7ebf4817/www-embed-player.vflset/www-embed-player.js:888:63
+
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 560: TypeError: browser is null
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-Z76TJPF8C5&l=dataLayer&cx=c, line 204: Script terminated by timeout at:
+xb@https://www.googletagmanager.com/gtag/js?id=G-Z76TJPF8C5&l=dataLayer&cx=c:204:391
+Gl@https://www.googletagmanager.com/gtag/js?id=G-Z76TJPF8C5&l=dataLayer&cx=c:360:594
+aa.am@https://www.googletagmanager.com/gtag/js?id=G-Z76TJPF8C5&l=dataLayer&cx=c:635:375
+c@https://www.googletagmanager.com/gtag/js?id=G-Z76TJPF8C5&l=dataLayer&cx=c:657:675
+xm@https://www.googletagmanager.com/gtag/js?id=G-Z76TJPF8C5&l=dataLayer&cx=c:367:298
+wm.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-Z76TJPF8C5&l=dataLayer&cx=c:370:278
+wm.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-Z76TJPF8C5&l=dataLayer&cx=c:368:207
+pm@https://www.googletagmanager.com/gtag/js?id=G-Z76TJPF8C5&l=dataLayer&cx=c:365:636
+pG/<@https://www.googletagmanager.com/gtag/js?id=G-Z76TJPF8C5&l=dataLayer&cx=c:658:178
+aa.tk/<@https://www.googletagmanager.com/gtag/js?id=G-Z76TJPF8C5&l=dataLayer&cx=c:606:126
+aa.tk/c/<@https://www.googletagmanager.com/gtag/js?id=G-Z76TJPF8C5&l=dataLayer&cx=c:605:420
+c@https://ajax.cloudflare.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js:1:9405
+EventListener.handleEvent*t.prototype.patchEventTargetMethods/t.addEventListener@https://ajax.cloudflare.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js:1:9497
+Sc@https://www.googletagmanager.com/gtag/js?id=G-Z76TJPF8C5&l=dataLayer&cx=c:217:281
+c@https://www.googletagmanager.com/gtag/js?id=G-Z76TJPF8C5&l=dataLayer&cx=c:605:391
+aa.tk@https://www.googletagmanager.com/gtag/js?id=G-Z76TJPF8C5&l=dataLayer&cx=c:606:80
+aa.uk@https://www.googletagmanager.com/gtag/js?id=G-Z76TJPF8C5&l=dataLayer&cx=c:655:383
+aa.bm@https://www.googletagmanager.com/gtag/js?id=G-Z76TJPF8C5&l=dataLayer&cx=c:639:232
+aa.am/</<@https://www.googletagmanager.com/gtag/js?id=G-Z76TJPF8C5&l=dataLayer&cx=c:636:248
+nl/<@https://www.googletagmanager.com/gtag/js?id=G-Z76TJPF8C5&l=dataLayer&cx=c:357:425
+Wk.prototype.notifyListeners@https://www.googletagmanager.com/gtm.js?id=GTM-W9VFPZD:273:255
+ml@https://www.googletagmanager.com/gtm.js?id=GTM-W9VFPZD:275:267
+wl@https://www.googletagmanager.com/gtm.js?id=GTM-W9VFPZD:277:233
+consent@https://www.googletagmanager.com/gtm.js?id=GTM-W9VFPZD:491:370
+Ey@https://www.googletagmanager.com/gtm.js?id=GTM-W9VFPZD:501:477
+Iy/b.push@https://www.googletagmanager.com/gtm.js?id=GTM-W9VFPZD:506:315
+Iy/b.push@https://www.googletagmanager.com/gtm.js?id=GTM-KHT889:547:165
+Iy/b.push@https://www.googletagmanager.com/gtag/js?id=G-Z76TJPF8C5&l=dataLayer&cx=c:541:165
+Iy/b.push@https://www.googletagmanager.com/gtag/js?id=G-3R6ETS6W44&l=dataLayer&cx=c:513:165
+Iy/b.push@https://www.googletagmanager.com/gtag/js?id=G-123T&l=dataLayer&cx=c:399:165
+Iy/b.push@https://www.googletagmanager.com/gtag/js?id=G-QY7EW6WXQQ&l=dataLayer&cx=c:507:165
+Iy/b.push@https://www.googletagmanager.com/gtag/destination?id=DC-6397067&l=dataLayer&cx=c:413:165
+gn.prototype.updateGCMTags/window.gtag@https://cdn.cookielaw.org/scripttemplates/202401.2.0/otBannerSdk.js:7:163631
+gn.prototype.updateGCMTags@https://cdn.cookielaw.org/scripttemplates/202401.2.0/otBannerSdk.js:7:163870
+gn.prototype.updateGtmMacros@https://cdn.cookielaw.org/scripttemplates/202401.2.0/otBannerSdk.js:7:161513
+sr.prototype.Init@https://cdn.cookielaw.org/scripttemplates/202401.2.0/otBannerSdk.js:7:310816
+@https://cdn.cookielaw.org/scripttemplates/202401.2.0/otBannerSdk.js:7:438826
+M/e/<@https://cdn.cookielaw.org/scripttemplates/202401.2.0/otBannerSdk.js:7:1920
+n@https://cdn.cookielaw.org/scripttemplates/202401.2.0/otBannerSdk.js:7:771
+promise callback*i@https://cdn.cookielaw.org/scripttemplates/202401.2.0/otBannerSdk.js:7:933
+F/<@https://cdn.cookielaw.org/scripttemplates/202401.2.0/otBannerSdk.js:7:944
+F@https://cdn.cookielaw.org/scripttemplates/202401.2.0/otBannerSdk.js:7:717
+@https://cdn.cookielaw.org/scripttemplates/202401.2.0/otBannerSdk.js:7:435614
+@https://cdn.cookielaw.org/scripttemplates/202401.2.0/otBannerSdk.js:7:439254
+M/e/<@https://cdn.cookielaw.org/scripttemplates/202401.2.0/otBannerSdk.js:7:1920
+n@https://cdn.cookielaw.org/scripttemplates/202401.2.0/otBannerSdk.js:7:771
+promise callback*i@https://cdn.cookielaw.org/scripttemplates/202401.2.0/otBannerSdk.js:7:933
+F/<@https://cdn.cookielaw.org/scripttemplates/202401.2.0/otBannerSdk.js:7:944
+F@https://cdn.cookielaw.org/scripttemplates/202401.2.0/otBannerSdk.js:7:717
+@https://cdn.cookielaw.org/scripttemplates/202401.2.0/otBannerSdk.js:7:434395
+@https://cdn.cookielaw.org/scripttemplates/202401.2.0/otBannerSdk.js:7:439809
+@https://cdn.cookielaw.org/scripttemplates/202401.2.0/otBannerSdk.js:7:439812
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 570: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 570: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1713176576558	Marionette	INFO	Stopped listening on port 33441
+NetworkHelper.parseSecurityInfo threw an exception: Security state 0 has no known STATE_IS_* flags.
+console.error: "Security state 0 has no known STATE_IS_* flags."
+[Parent 20289, IPC I/O Parent] WARNING: waitid failed pid:20458 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 20289, IPC I/O Parent] WARNING: waitid failed pid:20374 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 20289, IPC I/O Parent] WARNING: waitid failed pid:20356 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+1713176581494	geckodriver	INFO	Listening on 127.0.0.1:43215
+1713176582014	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/bin ... te" "--remote-debugging-port" "43897" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBbI2DQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713176583106	Marionette	INFO	Marionette enabled
+1713176583686	Marionette	INFO	Listening on port 45335
+WebDriver BiDi listening on ws://127.0.0.1:43897
+Read port: 45335
+1713176583920	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:43897/devtools/browser/ab877656-1e5e-40f0-a4f8-186e2647025a
+JavaScript error: https://www.riu.com/en/hotel/ line 101 > injectedScript, line 1: ReferenceError: gtag is not defined
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1713176613170	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://gumi.criteo.com/syncframe?topUrl=www.riu.com&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22riu.com%22,%22topUrl%22:%22www.riu.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.logPixel@https://gumi.criteo.com/syncframe?topUrl=www.riu.com&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22riu.com%22,%22topUrl%22:%22www.riu.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3418
+r.prototype.flushEventQueue@https://gumi.criteo.com/syncframe?topUrl=www.riu.com&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22riu.com%22,%22topUrl%22:%22www.riu.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3152
+r/<@https://gumi.criteo.com/syncframe?topUrl=www.riu.com&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22riu.com%22,%22topUrl%22:%22www.riu.com%22,%22version%22:%225_23_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript warning: https://ajax.cloudflare.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js, line 1: Script terminated by timeout at:
+c@https://ajax.cloudflare.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js:1:9349
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 570: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 570: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1713176872701	Marionette	INFO	Stopped listening on port 45335
+[Parent 22182, IPC I/O Parent] WARNING: waitid failed pid:22479 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 22182, IPC I/O Parent] WARNING: waitid failed pid:22446 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 22182, IPC I/O Parent] WARNING: waitid failed pid:22395 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 22182, IPC I/O Parent] WARNING: waitid failed pid:22375 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 22182, IPC I/O Parent] WARNING: waitid failed pid:22281 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 22182, IPC I/O Parent] WARNING: waitid failed pid:22252 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
