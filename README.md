@@ -1,3 +1,9 @@
-# diamond_data_scrape
-Scrapes cushion diamond data from an online jewelry website, extracting information  for further analysis and research.
-It extracts various attributes of diamonds, such as product ID, shape, carat, clarity, color, cut, polish, symmetry, fluorescence, measurements, and price
+Diamond Pricing Analysis
+Overview
+
+This project analyzes how diamond attributes (shape, Carat, Cut, Clarity, Color) affect diamond prices. Using data collected via web scraping, the analysis identifies key factors influencing diamond prices and highlights the most expensive types.
+Tools & Techniques used:
+-BeautifulSoup: Web scraping
+-Requests: HTTP requests
+-Python: Data manipulation and analysis
+-Statsmodels: Statistical modeling# diamond_data_scrape
